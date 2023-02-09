@@ -1,0 +1,16 @@
+
+
+img{
+    width: 250px;
+}
+
+.hola{
+    display:grid;
+    flex-direction: column;
+    justify-content: left;
+    width: 60%;
+   
+   
+    background-color: indigo ;
+    border: 1px solid black;
+}
